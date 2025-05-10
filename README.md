@@ -20,12 +20,7 @@ This project simulates a **phishing attack** scenario in a controlled environmen
 ##  Screenshots
 You can view project steps and configurations in the included report.
 
-##  Author
-**Mithan705**
 
----
 
-## Live/Hosted Version
-This is a simulated project, not hosted online.
 
 
